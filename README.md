@@ -14,8 +14,9 @@ Usage
 
 
 Features
+   Easy to use interface ^_^'
 
-   easy to use interface ^_^'
+   
     
 
 

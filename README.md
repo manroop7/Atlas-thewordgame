@@ -12,8 +12,9 @@ Usage
 
     Once you've installed Python and downloaded the source code. and run it in your lovely editor.
 
+
 Features
-    easy to use interface ^_^'
+   easy to use interface ^_^'
     
 
 

@@ -1,8 +1,8 @@
-#pixel-ATLAS
+Atlas - The word game
 
-My Another Fun Project
+Another Fun Project
 
-     Welcome to my fun project! This is a simple Python program that performs search query and give country name for the respective char.
+     This is a simple Python program that performs search query and give country name for the respective char.
 
 Installation
 
